@@ -1,1 +1,1 @@
-# [Weather-App] (https://climatedaily.vercel.app/)
+# [Weather-App](https://climatedaily.vercel.app/)
